@@ -1,2 +1,3 @@
 # flutter_calculator
- A calculator developed in flutter.
+ * A simple calculator developed in flutter.
+ * Project created during the course of 'Cod3r Cursos Online'
